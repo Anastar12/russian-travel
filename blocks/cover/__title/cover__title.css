@@ -10,9 +10,9 @@
 
 .cover__title {
   position: absolute;
-  left: 30%;
-  top: 30%;
-  width: 40%;
+  left: calc((100% - 47.3%)/2);
+  top: 25%;
+  width: 47.3%;
   font-family: 'Inter-bold';
   font-size: 72px;
   line-height: 76px;

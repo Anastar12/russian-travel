@@ -10,9 +10,9 @@
 
 .cover__subtitle {
   position: absolute;
-  left: 35%;
-  top: 50%;
-  width: 30%;
+  left: calc((100% - 30.41%)/2);
+  top: 45%;
+  width: 30.41%;
   margin: 100px auto;
   font-family: 'Inter-thin';
   font-size: 18px;
