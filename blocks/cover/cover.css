@@ -8,3 +8,9 @@
   background-size: cover;
   overflow: hidden;
 }
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .cover{
+    width: 100%;
+  }
+}
