@@ -18,8 +18,15 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 1024px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) and (min-width: 769px) {
   .lead__subtitle {
     margin-bottom: 70px;
+  }
+}
+
+@media screen and (max-width: 768px) and (min-width: 321px) {
+  .lead__subtitle {
+    width: 70%;
+    margin-bottom: 50px;
   }
 }
